@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Dato de la formula y resultados</string>
+    <string name="campo1">ejemplo 1</string>
+    <string name="campo2">Ejemplo 2</string>
+    <string name="campo3">Ejemplo 3</string>
+    <string name="campo4">Ejemplo 4</string>
+    <string name="resultado">Resultado</string>
+</resources>

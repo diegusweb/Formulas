@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Formulas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Dato de la formula - Delta PP</string>
+    <string name="campo1">Pa Sistolica MAX</string>
+    <string name="campo2">Pa Sistolica MIN</string>
+    <string name="campo3">Pa Diastolica MAX</string>
+    <string name="campo4">Pa Diastolica MIN</string>
+    <string name="resultado">Resultado</string>
+
+</resources>
